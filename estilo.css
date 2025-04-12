@@ -1,0 +1,52 @@
+.fundo{
+
+background-color: beige;
+}
+
+.h1titulo{
+
+color: brown;
+text-align: center;
+
+}
+
+.paragrafo{
+
+font-size: 20px;
+text-align: justify;
+
+}
+
+.ulmargem{
+
+margin-bottom: 30px;
+
+}
+
+.imagemhoobies{
+
+width: 600px;
+height: 300px;
+border-radius: 10px;
+
+}
+
+.imgflags{
+
+    width: 200px;
+    height: 120px;
+    border-radius: 10px;
+}
+
+.tablestyle{
+
+background-color: lightgrey;
+
+}
+
+a:hover{
+
+color: red;
+
+}
+
